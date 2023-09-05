@@ -23,8 +23,8 @@ function Button({
         'rounded-full': rounded,
         'bg-white': outline,
         'text-blue-500': outline && primary,
-        'text-gray-800': outline && secondary,
-        'text-green-500': outline && success,
+        'text-gray-700': outline && secondary,
+        'text-green-600': outline && success,
         'text-yellow-500': outline && warning,
         'text-red-600': outline && danger,
         }
